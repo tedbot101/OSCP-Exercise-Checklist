@@ -7,7 +7,7 @@
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|Completed?|
 |----------|-------------|-----|--------|--------|---|
  |2.3.6|2.3.6|Kali Documentation|3|No||
- |2.4.3.4|2.4.4|Finding Your Way Around Kali|5|Yes||
+ |2.4.3.4|2.4.4|Finding Your Way Around Kali|5|Yes|X|
  |2.5.3|2.5.3|Managing Kali Linux Services|2|No||
  |2.6.6.1|2.6.7|Searching, Installing and Removing Tools|5|No||
 
