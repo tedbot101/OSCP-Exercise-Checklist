@@ -6,18 +6,18 @@
 
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|Completed?|
 |----------|-------------|-----|--------|--------|---|
- |2.3.6|2.3.6|Kali Documentation|3|No||
+ |2.3.6|2.3.6|Kali Documentation|3|No|X|
  |2.4.3.4|2.4.4|Finding Your Way Around Kali|5|Yes|X|
- |2.5.3|2.5.3|Managing Kali Linux Services|2|No||
- |2.6.6.1|2.6.7|Searching, Installing and Removing Tools|5|No||
+ |2.5.3|2.5.3|Managing Kali Linux Services|2|No|X|
+ |2.6.6.1|2.6.7|Searching, Installing and Removing Tools|5|No|X|
 
 ### Command Line Fun
 |PDF Number|Portal Number|Heading|No. of Exercises|Required|Completed?|
 |----------|-------------|-----|--------|--------|---|
- |3.1.3.1|3.1.4|The Bash Environment|2|Yes||
- |3.2.5.1|3.2.6|Piping and Redirection|2|Yes||
- |3.3.5.1|3.3.6|Text Searching and Manipulation|3|Yes||
- |3.5.3.1|3.5.4|Comparing Files|2|Yes||
+ |3.1.3.1|3.1.4|The Bash Environment|2|Yes|X|
+ |3.2.5.1|3.2.6|Piping and Redirection|2|Yes|X|
+ |3.3.5.1|3.3.6|Text Searching and Manipulation|3|Yes|X|
+ |3.5.3.1|3.5.4|Comparing Files|2|Yes|X|
  |3.6.3.1|3.6.4|Managing Processes|5|Yes||
  |3.7.2.1|3.7.3|File and Command Monitoring|2|Yes||
  |3.8.3.1|3.8.4|Downloading Files|1|Yes||
